@@ -4,7 +4,7 @@ paths:
   static: ''
 collections_config:
   boost:
-    path: boost
+    path: /
     icon: bolt
     disable_url: false
     disable_add: false
